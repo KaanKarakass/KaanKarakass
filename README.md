@@ -1,5 +1,5 @@
 # 💼 About Me
-Hello! I am Kaan Karakaş, a highly skilled Full Stack Developer with extensive experience in Java and Spring Boot. Currently, I am part of Mavidev Yazılım A.Ş., where I contribute to the development of robust core banking applications for Türkiye İş Bankası A.Ş.'s international branches.
+Hello! I am Kaan Karakaş, a highly skilled Full Stack Developer with extensive experience in Java and Spring Boot. Currently working at Mavidev Yazılım A.Ş., where I contribute to the development of advanced core banking applications using Java, Spring Boot, Typescript and microservices architecture.
 
 - 🚀 Currently Exploring: Advanced Microservice Architectures with Spring Boot.
 - 🌱 Continuous Learner: Focused on Modern Design Patterns and Performance Optimization.
