@@ -4,7 +4,7 @@ Hello! I am Kaan Karakaş, a highly skilled Full Stack Developer with extensive 
 - 🚀 Currently Exploring: Advanced Microservice Architectures with Spring Boot.
 - 🌱 Continuous Learner: Focused on Modern Design Patterns and Performance Optimization.
 - 🤝 Open for Collaboration: Open-source Java projects and innovative software solutions.
-- 📩 Reach Me At: https://www.linkedin.com/in/kaan-karaka%C5%9F-000226226 - kaan_alpp@outlook.com
+- 📩 Reach Me At: [LinkedIn](https://www.linkedin.com/in/kaan-karaka%C5%9F-000226226) | Email: kaan_alpp@outlook.com
 
 # 🔧 Technical Skills
 - Languages: Java, TypeScript, JavaScript, Python, C
